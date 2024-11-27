@@ -63,7 +63,6 @@ How to run the program in Pycharm:-
 6. Run main.py from green play button on top right hand side.
 7. If everything works as expected enjoy, else re-try.
 
-Project Architecture:- docs/architecture.png
-![Architecture]
+Project Architecture:- https://github.com/pradeepinform/Data-Mart-cloud-Migration/blob/main/docs/architecture.png
 
 Database ER Diagram:-
